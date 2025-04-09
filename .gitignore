@@ -73,5 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Scene_Saloon/*
-Content/Scene_Warehouse/*
+Content/MetaHumans/*
