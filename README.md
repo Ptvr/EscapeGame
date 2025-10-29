@@ -55,7 +55,7 @@ This project later evolved into a **single-player reinterpretation** focused on 
 ## 📸 Screenshots & Media
 
 A short trailer was created to present the atmosphere and core gameplay of the project. 
-[![Watch the trailer](https://img.youtube.com/vi/blayX07Aag8/maxresdefault.jpg)]([https://youtu.be/ID_DE_TA_VIDEO](https://www.youtube.com/watch?v=blayX07Aag8))
+[![Watch the trailer](https://img.youtube.com/vi/blayX07Aag8/maxresdefault.jpg)](https://youtu.be/blayX07Aag8)
 
 ---
 
